@@ -83,4 +83,4 @@ Feel free to open an issue ticket if you find something that could be improved. 
 
 Many thanks are due to all of [the jquery-rails contributors](https://github.com/rails/jquery-rails/graphs/contributors). Special thanks to [JangoSteve](http://github.com/JangoSteve) for tirelessly answering questions and accepting patches, and the [Rails Core Team](https://github.com/organizations/rails/teams/617) for making jquery-rails an official part of Rails 3.1.
 
-Copyright [André Arko](http://arko.net), released under the MIT License.
+Copyright [Andre Arko](http://arko.net), released under the MIT License.
